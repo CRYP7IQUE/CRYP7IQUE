@@ -1,5 +1,6 @@
-## ![CRYP7IQUE Avatar](0000-0060-ezgif.com-optimize.gif)
-Hi there 👋
+![CRYP7IQUE Avatar](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3E5ZHM0am0zdG1naTR2Y284OXFtMjNuNzFkeTJobDFldDZ1MmlheSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wVx77csCAOZ28Uo5Iz/giphy.gif)
+
+## Hi there 👋
 
 <!--
 **CRYP7IQUE/CRYP7IQUE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
